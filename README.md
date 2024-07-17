@@ -11,3 +11,4 @@ This project hosts a simple interest calculator script that calculates the simpl
 ## Output
 
 The script calculates the simple interest using the formula:
+simple interest = p * t * r
